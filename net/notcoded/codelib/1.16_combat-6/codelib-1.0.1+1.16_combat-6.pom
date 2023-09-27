@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.notcoded</groupId>
   <artifactId>codelib</artifactId>
-  <version>1.0.1+1.20</version>
+  <version>1.0.1+1.16_combat-6</version>
   <dependencies>
     <dependency>
       <groupId>net.fabricmc</groupId>
